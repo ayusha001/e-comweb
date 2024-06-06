@@ -43,7 +43,7 @@ const Product = () => {
     return (
         <div>
             <div className='d-flex mx-4 justify-content-between'>
-                <h1 className='text-center'>E-com </h1>
+                <h1 className='text-center'>E-comweb </h1>
                 <div className='d-flex align-items-center'>
                    <Link to='/cart'> <button className='btn px-4 btn-success'>view</button></Link>
                 </div>
